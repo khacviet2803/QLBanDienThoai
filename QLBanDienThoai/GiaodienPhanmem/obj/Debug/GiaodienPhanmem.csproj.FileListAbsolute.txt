@@ -1,0 +1,247 @@
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongBan.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.GiaSanPham.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.LoaiSanPham.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomKhachHang.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeSanPham.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomNhaCungUng.resources
+C:\Users\HeroBin\Desktop\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongBan.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.GiaSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.LoaiSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomKhachHang.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomNhaCungUng.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongBan.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.GiaSanPham.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.LoaiSanPham.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomKhachHang.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomNhaCungUng.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeSanPham.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+C:\Users\VoThi\Desktop\GiaodienPhanmem (1)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Confirm.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongBan.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Confirm.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.GiaSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.LoaiSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomKhachHang.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.NhomNhaCungUng.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeSanPham.resources
+G:\Học tập\Lập trình windows\GiaodienPhanmem (2)\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmHDM.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeMatHang.resources
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+F:\lt window\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.QLKhachhang.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmHDM.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietHopDongMua.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ChiTietLienHe.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.QLKhachhang.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeKhachHang.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeNhaCungUng.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ThongKeMatHang.resources
+C:\Users\nguye_000\Desktop\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDoanhThu.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNhapHang.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmThongKe.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmTonKho.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyKhachHang.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyNhaCungUng.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyMatHang.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDatHang.resources
+C:\Users\VoThi\Desktop\Giao-dien-phan-mem26\11\Giao-dien-phan-mem-update\Giao dien phan mem update\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQLngdung.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDatHang.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDoanhThu.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNhapHang.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQLngdung.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmThongKe.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmTonKho.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyKhachHang.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyNhaCungUng.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyMatHang.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Dacdiem.resources
+F:\lt window\Giao dien phan mem update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+F:\lt_window\Giao_dien_phan _mem_update 26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+F:\lt_window\Giao_dien_phan _mem_update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+F:\lt_window\Giao_dien_phan _mem_update 26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Dacdiem.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDatHang.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDoanhThu.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNhapHang.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQLngdung.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmThongKe.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmTonKho.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyKhachHang.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyNhaCungUng.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyMatHang.resources
+F:\lt_window\Giao_dien_phan _mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojResolveAssemblyReference.cache
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Dacdiem.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDatHang.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDoanhThu.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNhapHang.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQLngdung.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmThongKe.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmTonKho.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyKhachHang.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyNhaCungUng.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyMatHang.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.Cache
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNguoidung.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.report.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\RdlCompile.cache
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\RdlCompile.compiled
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmreportdathangcs.resources
+F:\lt_window\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmreporttonkho.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csprojAssemblyReference.cache
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Changepass.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Dacdiem.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDatHang.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmDoanhThu.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNguoidung.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmNhapHang.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQLngdung.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.ConnectSQL.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmThongKe.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmTonKho.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Main.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.Properties.Resources.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyKhachHang.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.report.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmreportdathangcs.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmreporttonkho.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.SQL.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyNhaCungUng.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.frmQuanLyMatHang.resources
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.GenerateResource.cache
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.CoreCompileInputs.cache
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.exe
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.pdb
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe.config
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.exe
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\GiaodienPhanmem.pdb
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Asus VivoBook\Desktop\DA_LTCSHARP1_NHOM_13\SOURCE\Giao_dien_phan_mem_update26_11\GiaodienPhanmem\GiaodienPhanmem\obj\Debug\GiaodienPhanmem.csproj.CopyComplete
